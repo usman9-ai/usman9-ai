@@ -42,11 +42,11 @@ I'm Muhammad Usman, a passionate Machine Learning Engineer from Pakistan with a 
 
 ## GitHub Stats 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrusman8&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman9-ai&show_icons=true&theme=radical)
 
 ## Top Languages 🌟
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrusman8&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman9-ai&layout=compact)
 
 ## Connect with Me 🌐
 
